@@ -24,7 +24,6 @@ body {
     width: 16px;
     height: 16px;
     text-align: center;
-    cursor: pointer;
   }
   
   #grid TR TD.clicked {
@@ -40,4 +39,8 @@ body {
     font-size: 19px;
     border-radius: 10px;
     margin-top: 20px;
+  }
+
+  TD {
+    cursor: pointer;
   }
