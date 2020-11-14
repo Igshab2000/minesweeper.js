@@ -7,5 +7,5 @@
 Браузер с поддержкой JS
 
 # Инструкция по запуску игры
-1. Перейти по ссылке : https://igshab2000.github.io/minesweeper.js/src/html/
+1. Перейти по ссылке : https://igshab2000.github.io/minesweeper.js/
 2. Приступить к игре 
